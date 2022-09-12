@@ -28,4 +28,4 @@ Thanks, all works fine
 After everything is done, please commit and send a link to your GitHub repository to HR.
 
 ## 📑 Contributing
-If you you have any quations, please feel free to contact oleh.sliusarenko@oril.co for an immediate response 🙌.
+If you you have any questions, please feel free to contact oleh.sliusarenko@oril.co for an immediate response 🙌.
