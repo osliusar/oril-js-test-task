@@ -12,8 +12,6 @@ You have to implement missing part of the application (`Parallel`) (`task.js fil
 executed without exceptions and assertions in console (chrome debugger/console). You can use any instruments you need. You can run this code with any environment you need.
 
 
-🕒 **DEADLINE: 3-5 days**
-
 
 *Hint, in the console, the output sequence is as follows.*
 ```js
